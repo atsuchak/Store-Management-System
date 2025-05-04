@@ -1,0 +1,4 @@
+101	Apple	95	50
+102	Orange	95	50
+103	Banana	90	20
+105	Graph	90	200
